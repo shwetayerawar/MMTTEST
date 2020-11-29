@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mmtshop.Test", "Mmtshop.Test\Mmtshop.Test.csproj", "{9263E798-1E7A-4ED7-BA27-D30E98D5F753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MmtShop.Console", "MmtShop.Console\MmtShop.Console.csproj", "{C55E2426-7E7E-4609-B410-C1B9CC39B566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9263E798-1E7A-4ED7-BA27-D30E98D5F753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9263E798-1E7A-4ED7-BA27-D30E98D5F753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9263E798-1E7A-4ED7-BA27-D30E98D5F753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9263E798-1E7A-4ED7-BA27-D30E98D5F753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C55E2426-7E7E-4609-B410-C1B9CC39B566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C55E2426-7E7E-4609-B410-C1B9CC39B566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C55E2426-7E7E-4609-B410-C1B9CC39B566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C55E2426-7E7E-4609-B410-C1B9CC39B566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3103A8A5-D681-4A13-89B4-4A41D5F393C5}
+	EndGlobalSection
+EndGlobal
